@@ -36,11 +36,11 @@ import glob
 from pathlib import Path
 import json
 from datetime import datetime
-<<<<<<< HEAD
+
 # import textwrap
-=======
+
 #import textwrap
->>>>>>> 269a619e1c3be0cd4dbfec94889d818391b8efbf
+
 import httpx
 print(f"httpx version: {httpx.__version__}")
 from langdetect import detect

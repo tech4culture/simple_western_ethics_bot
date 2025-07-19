@@ -1,0 +1,14 @@
+streamlit==1.28.0
+chromadb==0.4.15
+sentence-transformers
+anthropic
+PyPDF2
+ebooklib
+python-dotenv
+llama-index
+beautifulsoup4
+langdetect
+pysqlite3-binary
+pathlib2
+typing-extensions
+httpx
